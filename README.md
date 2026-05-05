@@ -1,4 +1,4 @@
-# WeightTracker — Android App
+# Tit for Fat — Android App
 
 A polished personal weight tracking app built with Kotlin, Jetpack Compose, Room (KSP), and MPAndroidChart.
 
